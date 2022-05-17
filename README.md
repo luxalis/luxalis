@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @luxalis
+- 🌱 I’m currently learning JavaScript
